@@ -112,3 +112,7 @@ Open `index.html` for a visual overview.
 | <img src="Transistors/NPN%20transistor.svg" height="40"> | NPN transistor | 15 × 15 mm | [svg](Transistors/NPN%20transistor.svg) · [png](Transistors/NPN%20transistor.png) · [drawio](Transistors/NPN%20transistor.drawio) |
 | <img src="Transistors/Phototransistor.svg" height="40"> | Phototransistor | 15 × 15 mm | [svg](Transistors/Phototransistor.svg) · [png](Transistors/Phototransistor.png) · [drawio](Transistors/Phototransistor.drawio) |
 | <img src="Transistors/PNP%20transistor.svg" height="40"> | PNP transistor | 15 × 15 mm | [svg](Transistors/PNP%20transistor.svg) · [png](Transistors/PNP%20transistor.png) · [drawio](Transistors/PNP%20transistor.drawio) |
+
+## License
+
+All files and all texts are available under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
